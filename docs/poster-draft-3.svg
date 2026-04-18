@@ -1,0 +1,32 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="540" y1="0" x2="540" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C7CCD2"/>
+      <stop offset="0.52" stop-color="#8D8276"/>
+      <stop offset="1" stop-color="#5F5148"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#sky)"/>
+  <rect x="0" y="872" width="1080" height="478" fill="#40352F"/>
+  <path d="M0 948C145 888 258 853 342 842C487 823 593 881 727 875C823 870 921 844 1080 792V1350H0V948Z" fill="#5A493D"/>
+  <path d="M0 1040C185 972 364 935 530 952C640 964 773 1011 1080 1030V1350H0V1040Z" fill="#6B584B"/>
+  <path d="M182 760L261 678L362 758L444 681L531 770L632 690L751 782L843 718L934 796" stroke="#E7FF39" stroke-width="8"/>
+  <path d="M745 922C711 817 648 763 562 763C481 763 415 824 378 922" stroke="#E7FF39" stroke-width="6"/>
+  <path d="M434 920C458 847 505 808 568 808C635 808 683 850 708 920" stroke="#E7FF39" stroke-width="3"/>
+  <circle cx="454" cy="950" r="112" fill="none" stroke="#1B1D21" stroke-width="12"/>
+  <circle cx="670" cy="950" r="112" fill="none" stroke="#1B1D21" stroke-width="12"/>
+  <path d="M454 950L560 842L670 950L548 952L454 950Z" fill="none" stroke="#1B1D21" stroke-width="12"/>
+  <path d="M560 842L608 764" stroke="#1B1D21" stroke-width="12"/>
+  <path d="M546 952L490 1030" stroke="#1B1D21" stroke-width="12"/>
+  <path d="M562 850L648 850" stroke="#1B1D21" stroke-width="12"/>
+  <text x="80" y="148" fill="#16181D" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">КСС / OFFROAD SERIES</text>
+  <text x="84" y="386" fill="#E7FF39" font-family="Arial, Helvetica, sans-serif" font-size="196" font-weight="900" letter-spacing="-10">КСС</text>
+  <text x="84" y="570" fill="#111319" font-family="Arial, Helvetica, sans-serif" font-size="182" font-weight="900" letter-spacing="-8">ОФРОУД</text>
+  <text x="84" y="728" fill="#E7FF39" font-family="Arial, Helvetica, sans-serif" font-size="178" font-weight="300" letter-spacing="-6">РАЙД</text>
+  <text x="84" y="808" fill="#17191E" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">ДРОП РАЙД / 2085 РЕКАВЕРІ ФІНІШ</text>
+  <rect x="80" y="1148" width="920" height="110" fill="#17191E"/>
+  <text x="116" y="1196" fill="#E7FF39" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">СТАРТ: НЕДІЛЯ, 10:00</text>
+  <text x="116" y="1242" fill="#E7FF39" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">ДИСТАНЦІЯ: 60КМ</text>
+  <text x="958" y="1196" fill="#C9C5BD" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="end">MUD</text>
+  <text x="958" y="1242" fill="#C9C5BD" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="end">RECOVERY</text>
+</svg>

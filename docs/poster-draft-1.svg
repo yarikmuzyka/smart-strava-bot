@@ -1,0 +1,25 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#706E6A"/>
+  <rect x="54" y="54" width="972" height="1242" stroke="#E6FF3F" stroke-width="3"/>
+  <rect x="0" y="934" width="1080" height="416" fill="#2F2D2A"/>
+  <path d="M0 964C103 880 193 858 270 898C343 936 433 1025 545 1032C689 1040 766 890 865 878C936 870 1008 899 1080 952V1350H0V964Z" fill="#584B3C"/>
+  <path d="M0 1017C110 968 236 948 344 988C431 1020 520 1097 640 1096C772 1094 892 979 1080 1004V1350H0V1017Z" fill="#6D5D4B"/>
+  <path d="M102 827C190 778 272 765 348 792C442 826 522 929 645 935C749 941 843 858 965 812" stroke="#E6FF3F" stroke-width="4"/>
+  <path d="M130 892C212 854 284 848 356 872C462 909 546 994 647 993C749 992 832 920 930 875" stroke="#E6FF3F" stroke-width="2"/>
+  <text x="86" y="132" fill="#1F2026" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">КСС</text>
+  <text x="812" y="132" fill="#E6FF3F" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">ДРОП РАЙД</text>
+  <text x="82" y="390" fill="#111318" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="900" letter-spacing="-10">ОФРОУД</text>
+  <text x="82" y="560" fill="#E6FF3F" font-family="Arial, Helvetica, sans-serif" font-size="186" font-weight="300" letter-spacing="-8">РАЙД</text>
+  <text x="84" y="636" fill="#16171C" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">2085 РЕКАВЕРІ ФІНІШ</text>
+  <text x="82" y="1180" fill="#E6FF3F" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">СТАРТ: НЕДІЛЯ, 10:00</text>
+  <text x="82" y="1232" fill="#E6FF3F" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">ДИСТАНЦІЯ: 60КМ</text>
+  <text x="990" y="1180" fill="#D9D6CF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">OFFROAD</text>
+  <text x="990" y="1232" fill="#D9D6CF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">MUD MODE</text>
+  <circle cx="850" cy="642" r="116" fill="#3C3833" stroke="#E6FF3F" stroke-width="4"/>
+  <circle cx="850" cy="642" r="64" fill="none" stroke="#E6FF3F" stroke-width="3"/>
+  <path d="M796 644H905" stroke="#E6FF3F" stroke-width="4"/>
+  <path d="M849 589V697" stroke="#E6FF3F" stroke-width="4"/>
+  <path d="M210 160L378 160" stroke="#E6FF3F" stroke-width="14"/>
+  <path d="M398 160L566 160" stroke="#E6FF3F" stroke-width="14" stroke-dasharray="10 10"/>
+  <path d="M586 160L754 160" stroke="#1F2026" stroke-width="14"/>
+</svg>

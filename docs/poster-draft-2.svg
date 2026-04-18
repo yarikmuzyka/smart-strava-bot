@@ -1,0 +1,31 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#BBBFC9"/>
+  <rect x="64" y="64" width="952" height="1222" stroke="#E4FF31" stroke-width="4"/>
+  <path d="M112 1008C175 875 251 780 342 720C431 661 541 635 673 637C754 638 846 655 943 685" stroke="#E4FF31" stroke-width="5"/>
+  <path d="M140 1060C252 918 347 842 425 813C517 779 645 772 813 785" stroke="#E4FF31" stroke-width="2"/>
+  <text x="96" y="132" fill="#222733" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">КСС</text>
+  <text x="974" y="132" fill="#222733" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="end">ДРОП РАЙД</text>
+  <text x="88" y="362" fill="#1D212B" font-family="Arial, Helvetica, sans-serif" font-size="238" font-weight="900" letter-spacing="-12">КСС</text>
+  <text x="88" y="554" fill="#1D212B" font-family="Arial, Helvetica, sans-serif" font-size="206" font-weight="900" letter-spacing="-10">ОФРОУД</text>
+  <text x="88" y="720" fill="#E4FF31" font-family="Arial, Helvetica, sans-serif" font-size="186" font-weight="300" letter-spacing="-8">РАЙД</text>
+  <text x="88" y="802" fill="#2D313D" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">2085 РЕКАВЕРІ ФІНІШ</text>
+  <g transform="translate(624 838)">
+    <circle cx="110" cy="110" r="108" fill="#A0A5B1" stroke="#1D212B" stroke-width="5"/>
+    <circle cx="110" cy="110" r="54" fill="none" stroke="#1D212B" stroke-width="5"/>
+    <circle cx="310" cy="190" r="92" fill="#A0A5B1" stroke="#1D212B" stroke-width="5"/>
+    <circle cx="310" cy="190" r="42" fill="none" stroke="#1D212B" stroke-width="5"/>
+    <path d="M110 110L214 84L310 190L174 188L110 110Z" fill="none" stroke="#1D212B" stroke-width="6"/>
+    <path d="M214 84L248 20L310 190" stroke="#1D212B" stroke-width="6"/>
+    <path d="M170 188L120 240" stroke="#1D212B" stroke-width="6"/>
+    <path d="M226 104L264 114" stroke="#1D212B" stroke-width="6"/>
+    <path d="M252 26L282 26" stroke="#1D212B" stroke-width="6"/>
+  </g>
+  <rect x="82" y="1148" width="916" height="116" fill="#1D212B"/>
+  <text x="116" y="1198" fill="#E4FF31" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">СТАРТ: НЕДІЛЯ, 10:00</text>
+  <text x="116" y="1244" fill="#E4FF31" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">ДИСТАНЦІЯ: 60КМ</text>
+  <text x="962" y="1198" fill="#BBC1CB" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="end">RAW</text>
+  <text x="962" y="1244" fill="#BBC1CB" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="end">RECOVERY</text>
+  <path d="M92 104L364 104" stroke="#1D212B" stroke-width="18"/>
+  <path d="M386 104L658 104" stroke="#E4FF31" stroke-width="18"/>
+  <path d="M680 104L952 104" stroke="#1D212B" stroke-width="18" stroke-dasharray="8 10"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fadeTop" x1="540" y1="0" x2="540" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7D8D4" stop-opacity="0.54"/>
+      <stop offset="1" stop-color="#D7D8D4" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="mudPanel" x1="540" y1="906" x2="540" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282522" stop-opacity="0.54"/>
+      <stop offset="1" stop-color="#171512" stop-opacity="0.84"/>
+    </linearGradient>
+  </defs>
+
+  <image href="/Users/ymuzyka/Desktop/photo_2026-03-28_15-51-41.jpg" x="0" y="-45" width="1080" height="1440" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1080" height="1350" fill="#81817C" fill-opacity="0.18"/>
+  <rect width="1080" height="760" fill="url(#fadeTop)"/>
+  <rect x="0" y="906" width="1080" height="444" fill="url(#mudPanel)"/>
+  <rect x="54" y="54" width="972" height="1242" stroke="#E8FF3C" stroke-opacity="0.9" stroke-width="3"/>
+
+  <path d="M72 826C149 778 232 760 306 792C418 841 507 951 639 957C767 963 870 885 970 820" stroke="#E8FF3C" stroke-width="4"/>
+  <path d="M110 890C192 854 268 846 336 874C433 913 522 1001 638 1001C744 1001 839 941 924 892" stroke="#E8FF3C" stroke-opacity="0.8" stroke-width="2"/>
+
+  <text x="86" y="132" fill="#202229" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">КСС</text>
+  <text x="820" y="132" fill="#E8FF3C" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">ДРОП РАЙД</text>
+
+  <rect x="68" y="184" width="496" height="364" fill="#B8B8B1" fill-opacity="0.22"/>
+  <text x="82" y="378" fill="#17191E" font-family="Arial, Helvetica, sans-serif" font-size="208" font-weight="900" letter-spacing="-10">ОФРОУД</text>
+  <text x="82" y="548" fill="#E8FF3C" font-family="Arial, Helvetica, sans-serif" font-size="184" font-weight="300" letter-spacing="-8">РАЙД</text>
+  <text x="84" y="632" fill="#16181C" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">2085 РЕКАВЕРІ ФІНІШ</text>
+
+  <circle cx="850" cy="644" r="116" fill="#35312D" fill-opacity="0.4" stroke="#E8FF3C" stroke-width="4"/>
+  <circle cx="850" cy="644" r="64" fill="none" stroke="#E8FF3C" stroke-width="3"/>
+  <path d="M796 644H905" stroke="#E8FF3C" stroke-width="4"/>
+  <path d="M849 589V697" stroke="#E8FF3C" stroke-width="4"/>
+
+  <path d="M210 160L378 160" stroke="#E8FF3C" stroke-width="14"/>
+  <path d="M398 160L566 160" stroke="#E8FF3C" stroke-width="14" stroke-dasharray="10 10"/>
+  <path d="M586 160L754 160" stroke="#1E2026" stroke-width="14" stroke-opacity="0.8"/>
+
+  <rect x="68" y="1126" width="944" height="126" fill="#151311" fill-opacity="0.72"/>
+  <text x="84" y="1184" fill="#E8FF3C" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">СТАРТ: НЕДІЛЯ, 10:00</text>
+  <text x="84" y="1238" fill="#E8FF3C" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">ДИСТАНЦІЯ: 60КМ</text>
+  <text x="982" y="1184" fill="#D8D5CE" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">OFFROAD</text>
+  <text x="982" y="1238" fill="#D8D5CE" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="end">MUD MODE</text>
+</svg>
